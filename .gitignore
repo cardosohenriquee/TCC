@@ -1,6 +1,7 @@
 # Secrets
 .env
 google_credentials.json
+claude.md
 
 # Data & results
 data/
